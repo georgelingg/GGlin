@@ -1,2 +1,2 @@
 # GGlingit 
-此作品衍生自https://github.com/Cojad/baledEagleBotTg/
+此主要為娛樂性質，與任何商業利益無關。
